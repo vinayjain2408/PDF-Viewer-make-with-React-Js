@@ -75,6 +75,7 @@
 
 import React, { useState } from 'react';
 import { Document, Page } from 'react-pdf';
+import "bootstrap/dist/css/bootstrap.min.css"
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 
 const PdfViewer = () => {
